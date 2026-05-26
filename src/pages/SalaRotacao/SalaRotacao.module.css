@@ -1,0 +1,15 @@
+.container {
+  padding: 40px;
+  text-align: center;
+}
+
+.container h1 {
+  color: #5b3a29;
+}
+
+.cards {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}

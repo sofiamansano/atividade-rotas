@@ -1,0 +1,34 @@
+.header{
+    background-color: #5b3a29;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    color: #fff8f0;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.menu{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.menu a{
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+menu a:hover{
+    color: #ffd59e;
+}
+
+.active{
+    border-bottom: 2px solid #ffd59e;
+    padding-bottom: 4px;
+}
