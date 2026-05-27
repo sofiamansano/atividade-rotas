@@ -3,12 +3,12 @@ import styles from "./Home.module.css";
 function Home() {
   return (
     <div className={styles.container}>
-      <h1>Bem-vindo à Zion Livraria!</h1>
+      <h1>Zion • Café com Propósito</h1>
 
       <p>
-        A Zion Livraria nasceu para tocar vidas através da Palavra e espalhar esperança em cada página.
-        Entre livros, devocionais e mensagens de fé, queremos acolher corações e aproximar pessoas de Deus.
-        Porque cada história lida aqui pode se transformar em um novo começo guiado pela graça e pelo amor.
+        Bem-vindo à Zion, um lugar onde fé, conhecimento e aconchego se encontram. 
+        Entre páginas inspiradoras e o aroma de um bom café, criamos um espaço para descansar a mente, 
+        fortalecer a alma e viver momentos especiais.
       </p>
 
       <img src="src/assets/livraria.png" alt="Livraria/Cafeteria" />

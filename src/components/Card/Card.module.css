@@ -2,11 +2,9 @@
   background-color: white;
   padding: 20px;
   border-radius: 12px;
-
-  width: 250px;
-
+  width: 280px;
+  height: 185px;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
-
   transition: 0.3s;
 }
 
@@ -21,4 +19,5 @@
 
 .card p {
   color: #555;
+  align-items: center;
 }

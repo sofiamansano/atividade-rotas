@@ -16,4 +16,4 @@ const MenuLink = ({children, to}) =>{
     )
 }
 
-export default MenuLink
+export default MenuLink;
